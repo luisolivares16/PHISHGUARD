@@ -33,7 +33,7 @@ The active prototype uses a saved six-section **CREATE playbook v1.0**:
 | **Type of Output** | Standard incident report: risk, data quality, indicators, missing evidence, reasoning, analyst actions, approval status |
 | **Extras** | No fabricated scans or compromise claims; evaluation labels not classification evidence; preserve auditability |
 
-Exact prompt disclosure: The complete, original PHISHGUARD CREATE Playbook v1.0 is included in this repository. This README summarizes its six CREATE sections; the linked file contains the exact instructions used in the prototype.
+**Exact prompt disclosure:** The complete, original [PHISHGUARD CREATE Playbook v1.0](PHISHGUARD_CREATE_playbook.md) is included in this repository. This README summarizes its six CREATE sections; the linked file contains the exact instructions used in the prototype.
 
 ## Synthetic Dataset & Validation
 
